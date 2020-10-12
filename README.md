@@ -1,2 +1,2 @@
 # RL-Projects
-Repository of RL work from UIUC Grad Course (Fall 2020)
+Repository of Reinforcement Learning work from UIUC Grad Course (Fall 2020)
