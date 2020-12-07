@@ -3,7 +3,6 @@ Found here is a repository of the PPO algorithm reveloped and tested in a contin
 
 From Reinforcement Learning Course taught at The University of Illinois, Fall 2020.
 
-# HW4 for Walker Dimon (wdimon2)
 
 ## TO RUN CODE:
 The main run file is found in "run.py". The PPO algorithm  is found in "PPO.py" To run the code, execute 'run.py' in the terminal. The default number of training epochs is set to 1,000 but can be changed with the '-- epochs' argument. Executing the 'run.py' command will run the PPO algorithm and train the actor and critic networks, save these networks along with a data log of critic loss, actor reward, and training steps (saved to the 'model_save' folder), and generate the requested results. These results are saved to the 'results' folder.
